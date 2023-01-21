@@ -1,0 +1,263 @@
+/* header start */
+
+.header{
+    
+    background-color: rgba(255, 144, 14, 0.1); ;
+height: 1450px;
+width: 1890px;
+}
+
+.head{
+    display: flex;
+   
+    justify-content: space-between;
+    align-items: center;
+    height: 150px;
+   
+    }
+.head1{
+display: flex;
+
+height: 50px;
+width: 400px;
+justify-content: space-around;
+
+}
+
+
+.head2{ 
+    position: relative;
+    top: 70px;
+left: 50px;
+text-align: center
+}
+.G3{
+    position: relative;
+    left: 200px;
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;}
+
+.pera1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 75px;
+
+}
+
+.btn1{
+    width: 132px;
+height: 50px;
+background: #FF900E;
+border: none;
+color: #FFFFFF;
+border-radius: 7px;
+}
+
+.img1{
+    position: relative;
+    top: 100px;
+}
+
+/* header end */
+
+/* main start */
+
+.img{
+    display: grid;
+    grid-template-columns: 360px 30px;
+    grid-template-rows: 350px 30px;
+    row-gap: 5px;
+    column-gap: 5px;
+}
+
+
+.contant{
+   
+    height: 450px;
+    width: 450px;
+   
+    
+    
+}
+.main{
+    margin-bottom: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+ .of-our{
+color: #131313;
+ }
+ .Quick{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 45px;
+line-height: 53px;
+ }
+ .of{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+ }
+ .feature{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+
+color: #FF900E;
+ }
+ .koria{
+   
+    height: 1000px;
+    width: 1500px;
+ }
+
+.koriangirl1{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+padding: 25px;
+border-left: 5px solid #FF900E;
+margin-bottom: 70px;
+}
+.koriangirl2{
+   
+width: 586px;
+height: 70px; 
+
+margin-bottom: 70px;
+
+}
+.koriangirl3{
+   
+    width: 586px;
+    height: 100px; 
+    margin-bottom: 70px;
+    box-shadow: 2px 2px 3px gray;
+    border-radius: 7px;
+    padding-left: 15px;
+    }
+.koriangirl4{
+   
+        width: 586px;
+        height: 100px; 
+        
+        margin-bottom: 70px;
+        box-shadow: 2px 2px 3px gray;
+        border-radius: 7px;
+        padding-left: 15px;
+        }
+.koriangirl5{
+   
+            width: 586px;
+            height: 100px; 
+            
+            margin-bottom: 70px;
+            box-shadow: 2px 2px 3px gray;
+            border-radius:7px;
+            padding-left: 15px;
+            }
+ .koriangirl6{
+   
+                width: 586px;
+                height: 100px; 
+                padding-left: 15px;
+                margin-bottom: 20px;
+                box-shadow: 2px 2px 3px gray;
+                border-radius: 7px;}
+ .koria{
+                    position: relative;
+                    left: 300px;
+                 }
+.img2{
+  position: relative;
+   left: 700px;
+   top: -1000px;
+  }  
+  .btn2{
+    width: 180px;
+height: 105px;
+position: relative;
+right: 800px;
+top: -40px;
+border: none;
+background-color:  #FF900E;;
+border-radius: 7px;
+color: rgb(236, 234, 234);
+  }
+  .somefact{
+    position: relative;
+    left: 300px;
+    top: 80px;
+  }
+  .box{
+    display: flex;
+    justify-content: space-evenly;
+   position: relative;
+   top: 200px;
+  } 
+.box1{
+    
+text-align: center;
+    position: relative;
+    width: 145.83px;
+    height: 180.83px;
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+    
+}
+.box2{
+    
+
+    position: relative;
+    width: 141.83px;
+    height: 180.83px;
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+}
+.box3{
+    
+
+    position: relative;
+    width: 141.83px;
+    height: 180.83px;
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+}
+.box4{
+    position: relative;
+    width: 141.83px;
+    height: 180.83px;
+    border: 1px solid #FF900E;
+    border-radius: 8px;
+}
+
+footer{
+text-align: center;
+margin-top: 400px;
+}
+.img3{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    margin: 100px;
+}
+.copyright{
+ 
+height: 50px;
+width: 1000px;
+position: relative;
+left: 500px;
+background-color: #FFF4E7;;
+}
